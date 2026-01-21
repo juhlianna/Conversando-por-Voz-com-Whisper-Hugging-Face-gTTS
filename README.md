@@ -1,0 +1,1 @@
+# Conversando-por-Voz-com-Whisper-Hugging-Face-gTTS
